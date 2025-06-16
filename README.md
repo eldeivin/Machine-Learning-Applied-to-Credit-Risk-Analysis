@@ -45,7 +45,7 @@ The initial step considers the exploration and analysis of the original database
 ## Research Paper and Presentation
 
 The folder `Research/` contains:
-- `Machine_Learning_Applied_to_Credit_Risk_Analysis.pdf`: The full research report.
+- `Machine_Learning_Applied_to_Credit_Risk_Analysis.pdf`: The full research report, which includes precedent tracking, methodologies implemented, results, and conclusions from the implementation of optimized models.
 - `Thesis_Presentation.pptx`: The slides used for the defense and final presentation of the research project to the academic authorities.
 
 **License:**  
