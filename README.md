@@ -20,28 +20,7 @@ The initial step considers the exploration and analysis of the original database
 
 ---
 
-## Research Paper and Presentation
-
-The folder `Research/` contains:
-- `Machine_Learning_Applied_to_Credit_Risk_Analysis.pdf`: The full research report, which includes precedent tracking, methodologies implemented, results, and conclusions from the implementation of optimized models.
-- `Thesis_Presentation.pptx`: The slides used for the defense and final presentation of the research project to the academic authorities.
-
-**License:**  
-These documents are © David Felipe Vargas Cadena, 2025.  
-They are licensed under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.  
-You may share these documents with attribution, but you may not use them commercially or create derivative works.
-
----
-
-## Contact
-
-For questions or collaboration, please contact:  
-**David Felipe Vargas Cadena**  
-https://www.linkedin.com/in/davidfvargasc/  |  https://github.com/eldeivin/
-
----
-
-## Summary
+## Project Summary
 
 ### Data
 
@@ -77,6 +56,27 @@ The dataset used for this project comes from Kaggle's popular "Give Me Some Cred
 
 ---
 
-For more details, see the research paper: `Machine_Learning_Applied_to_Credit_Risk_Analysis.pdf`.
+For more details, see the research paper related.
+
+---
+
+## Research Paper and Presentation
+
+The folder `Research/` contains:
+- `Machine_Learning_Applied_to_Credit_Risk_Analysis.pdf`: The full research report, which includes precedent tracking, methodologies implemented, results, and conclusions from the implementation of optimized models.
+- `Thesis_Presentation.pptx`: The slides used for the defense and final presentation of the research project to the academic authorities.
+
+**License:**  
+These documents are © David Felipe Vargas Cadena, 2025.  
+They are licensed under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.  
+You may share these documents with attribution, but you may not use them commercially or create derivative works.
+
+---
+
+## Contact
+
+For questions or collaboration, please contact:  
+**David Felipe Vargas Cadena**  
+https://www.linkedin.com/in/davidfvargasc/  |  https://github.com/eldeivin/
 
 ---
