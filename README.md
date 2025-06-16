@@ -9,8 +9,8 @@ This project aims to analyze the applicability of Machine Learning techniques in
 | File/Folder                                      | Description                                                                                  |
 |--------------------------------------------------|----------------------------------------------------------------------------------------------|
 | `Exploratory-Data-Analysis.ipynb`                | Jupyter notebook for initial data exploration, cleaning, and visualization.                  |
-| `CE (final consolidated).py`                     | Python script for feature selection using various ML models optimized with Cross Entropy.     |
-| `BL (final consolidated).py`                     | Python script for feature selection using various ML models optimized with Local Search.      |
+| `CE models.py`                                   | Python script for feature selection using various ML models optimized with Cross Entropy.     |
+| `BL models.py`                                   | Python script for feature selection using various ML models optimized with Local Search.      |
 | `Research/`                                      | Folder containing the full research report (Machine_Learning_Applied_to_Credit_Risk_Analysis.pdf) and presentation to his defense (Thesis_Presentation.pptx).            |
 | `README.md`                                      | This project description and instructions.                                                   |
 | `LICENSE`                                        | License for the code in this repository.                                                     |
