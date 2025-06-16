@@ -35,5 +35,6 @@ You may share these documents with attribution, but you may not use them commerc
 For questions or collaboration, please contact:  
 **David Felipe Vargas Cadena**  
 https://www.linkedin.com/in/davidfvargasc/
+
 https://github.com/eldeivin
 
