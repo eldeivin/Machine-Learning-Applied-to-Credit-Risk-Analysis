@@ -4,34 +4,6 @@ This project aims to analyze the applicability of Machine Learning techniques in
 
 ---
 
-## Data
-
-The dataset used for this project comes from Kaggle's popular "Give Me Some Credit" competition. Files labeled _original correspond to the original datasets from the Kaggle competition. Files labeled _modified are the preprocessed versions, generated with the Exploratory-Data-Analysis.ipynb script.
-
-| Variable                                   | Description                                                                                                                      | Type                |
-|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|
-| SeriousDlqin2yrs                           | Borrower is delinquent or overdue by 90 days or more on a payment.                                                               | Quantitative, Binary (Tarjet)|
-| RevolvingUtilizationOfUnsecuredLines        | Total balance on credit cards and personal lines of credit (excluding real estate and installment debt) divided by credit limits. | Quantitative, Continuous |
-| Age                                        | Age of the borrower in years.                                                                                                    | Quantitative, Discrete   |
-| NumberOfTime30-59DaysPastDueNotWorse       | Number of times borrower has been 30-59 days past due but no worse in the last 2 years.                                          | Quantitative, Discrete   |
-| DebtRatio                                  | Monthly debt payments, alimony, and living costs divided by gross monthly income.                                                | Quantitative, Continuous |
-| MonthlyIncome                              | Borrower's monthly income.                                                                                                       | Quantitative, Continuous |
-| NumberOfOpenCreditLinesAndLoans            | Number of open installment loans (e.g., car loans, mortgages) and lines of credit (e.g., credit cards).                         | Quantitative, Discrete   |
-| NumberOfTimes90DaysLate                    | Number of times borrower has been 90 days or more past due.                                                                      | Quantitative, Discrete   |
-| NumberRealEstateLoansOrLines               | Number of real estate loans or lines, including home equity lines of credit.                                                     | Quantitative, Discrete   |
-| NumberOfTime60-89DaysPastDueNotWorse       | Number of times borrower has been 60-89 days past due but no worse in the last 2 years.                                          | Quantitative, Discrete   |
-| NumberOfDependents                         | Number of dependents in the family, excluding the borrower (e.g., spouse, children, etc.).                                      | Quantitative, Discrete   |
-
-*Source: Own elaboration based on the “Give Me Some Credit” dataset.*
-
----
-
-## Summary Results
-
-![Methodology](images/methodology.png)
-
----
-
 ## Repository Structure
 
 The initial step considers the exploration and analysis of the original database, processing both for training and testing, a modified version that considers the treatment of null values ​​and outliers, which improves the quality of data within the model.
@@ -66,4 +38,43 @@ You may share these documents with attribution, but you may not use them commerc
 For questions or collaboration, please contact:  
 **David Felipe Vargas Cadena**  
 https://www.linkedin.com/in/davidfvargasc/  |  https://github.com/eldeivin/
+
+---
+
+## Summary
+
+### Data
+
+The dataset used for this project comes from Kaggle's popular "Give Me Some Credit" competition. Files labeled _original correspond to the original datasets from the Kaggle competition. Files labeled _modified are the preprocessed versions, generated with the Exploratory-Data-Analysis.ipynb script.
+
+| Variable                                   | Description                                                                                                                      | Type                |
+|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| SeriousDlqin2yrs                           | Borrower is delinquent or overdue by 90 days or more on a payment.                                                               | Quantitative, Binary (Tarjet)|
+| RevolvingUtilizationOfUnsecuredLines        | Total balance on credit cards and personal lines of credit (excluding real estate and installment debt) divided by credit limits. | Quantitative, Continuous |
+| Age                                        | Age of the borrower in years.                                                                                                    | Quantitative, Discrete   |
+| NumberOfTime30-59DaysPastDueNotWorse       | Number of times borrower has been 30-59 days past due but no worse in the last 2 years.                                          | Quantitative, Discrete   |
+| DebtRatio                                  | Monthly debt payments, alimony, and living costs divided by gross monthly income.                                                | Quantitative, Continuous |
+| MonthlyIncome                              | Borrower's monthly income.                                                                                                       | Quantitative, Continuous |
+| NumberOfOpenCreditLinesAndLoans            | Number of open installment loans (e.g., car loans, mortgages) and lines of credit (e.g., credit cards).                         | Quantitative, Discrete   |
+| NumberOfTimes90DaysLate                    | Number of times borrower has been 90 days or more past due.                                                                      | Quantitative, Discrete   |
+| NumberRealEstateLoansOrLines               | Number of real estate loans or lines, including home equity lines of credit.                                                     | Quantitative, Discrete   |
+| NumberOfTime60-89DaysPastDueNotWorse       | Number of times borrower has been 60-89 days past due but no worse in the last 2 years.                                          | Quantitative, Discrete   |
+| NumberOfDependents                         | Number of dependents in the family, excluding the borrower (e.g., spouse, children, etc.).                                      | Quantitative, Discrete   |
+
+*Source: Own elaboration based on the “Give Me Some Credit” dataset.*
+
+---
+
+### Methodology
+
+![Methodology](images/methodology.png)
+
+---
+
+### Results
+
+![Results](images/summary_results.png)
+
+---
+
 
