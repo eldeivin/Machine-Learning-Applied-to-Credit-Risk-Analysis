@@ -26,6 +26,12 @@ The dataset used for this project comes from Kaggle's popular "Give Me Some Cred
 
 ---
 
+## Summary Results
+
+![Methodology](images/methodology.png)
+
+---
+
 ## Repository Structure
 
 The initial step considers the exploration and analysis of the original database, processing both for training and testing, a modified version that considers the treatment of null values ​​and outliers, which improves the quality of data within the model.
