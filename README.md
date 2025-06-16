@@ -21,7 +21,7 @@ This project aims to analyze the applicability of Machine Learning techniques in
 
 The folder `Research/` contains:
 - `Machine_Learning_Applied_to_Credit_Risk_Analysis.pdf`: The full research report.
-- `Credit_Risk_Analysis_Presentation.pptx`: The slides used for the defense and final presentation of the research project to the academic authorities.
+- `Thesis_Presentation.pptx`: The slides used for the defense and final presentation of the research project to the academic authorities.
 
 **License:**  
 These documents are © David Felipe Vargas Cadena, 2025.  
