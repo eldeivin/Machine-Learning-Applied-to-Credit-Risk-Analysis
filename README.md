@@ -77,4 +77,6 @@ The dataset used for this project comes from Kaggle's popular "Give Me Some Cred
 
 ---
 
+For more details, see the research paper: `Machine_Learning_Applied_to_Credit_Risk_Analysis.pdf`.
 
+---
