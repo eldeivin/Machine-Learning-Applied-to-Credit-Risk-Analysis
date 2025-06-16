@@ -4,6 +4,12 @@ This project aims to analyze the applicability of Machine Learning techniques in
 
 ---
 
+# Data
+
+The dataset used for this project comes from Kaggle's popular "Give Me Some Credit" competition. Files labeled _original correspond to the original datasets from the Kaggle competition. Files labeled _modified are the preprocessed versions, generated with the Exploratory-Data-Analysis.ipynb script.
+
+---
+
 ## Repository Structure
 
 | File/Folder                                      | Description                                                                                  |
@@ -11,7 +17,8 @@ This project aims to analyze the applicability of Machine Learning techniques in
 | `Exploratory-Data-Analysis.ipynb`                | Jupyter notebook for initial data exploration, cleaning, and visualization.                  |
 | `CE models.py`                                   | Python script for feature selection using various ML models optimized with Cross Entropy.     |
 | `BL models.py`                                   | Python script for feature selection using various ML models optimized with Local Search.      |
-| `Research/`                                      | Folder containing the full research report (Machine_Learning_Applied_to_Credit_Risk_Analysis.pdf) and presentation to his defense (Thesis_Presentation.pptx).            |
+| `Research/`                                      | Folder containing the full research report (Machine_Learning_Applied_to_Credit_Risk_Analysis.pdf) and presentation to his defense (Thesis_Presentation.pptx).   |
+| `Data/`                                          | Folder containing original and processed datasets of Give Me Some Credit                         |  
 | `README.md`                                      | This project description and instructions.                                                   |
 | `LICENSE`                                        | License for the code in this repository.                                                     |
 
