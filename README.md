@@ -1,5 +1,7 @@
 # Machine Learning Applied to Credit Risk Analysis
 
+*Can optimization algorithms improve credit risk modeling with Machine Learning and Deep Learning? In this project, I combine both to achieve more accurate, scalable predictions—approaches increasingly adopted by FinTech and BigTech to stay ahead in data-driven financial innovation.*
+
 This project aims to analyze the applicability of Machine Learning techniques in credit risk analysis, with a particular focus on the selection of relevant variables and the optimization of predictive models. The literature review highlights that these techniques outperform traditional methods in risk prediction and loss reduction. Additionally, there is a growing interest in the applicability of unconventional approaches based on Deep Learning methods, which, together with non-financial alternative data, promote financial inclusion. As methodology, two optimization algorithms are proposed: Local Search (BL) and Cross Entropy (CE), combined with various Machine Learning techniques to enhance the process of identifying optimal combinations of variables, focusing on the most influential ones in credit risk prediction. The results show that data preprocessing, including value imputation and outlier removal, is crucial to improving model accuracy. The comparative analysis between BL and CE suggests that both methods improve model performance, although CE offers greater flexibility in selecting additional variables, leading to further optimization improvements. Moreover, it was found that longer loan payment delays are key predictors in credit risk analysis.
 
 ---
@@ -63,6 +65,7 @@ To improve prediction quality:
 
 This preprocessing significantly improved model robustness and stability, especially for models like Random Forest and XGBoost, which achieved AUC scores above 0.85.
 
+
 ![Data](images/data.png)
 
 ---
@@ -84,6 +87,7 @@ A hybrid strategy combining feature selection optimization and supervised ML & D
     - Uses a probabilistic model to evolve feature selections.
     - Prioritizes combinations with lower prediction error.
     - Provides greater exploration and flexibility in feature space.
+
 
 ![Methodology](images/methodology.png)
 
